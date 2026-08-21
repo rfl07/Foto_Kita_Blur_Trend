@@ -1,0 +1,7 @@
+Buka Terminal (CTR + ~)
+-pip install opencv-python pygame mediapipe
+
+Pastikan file lagu ada di folder yang sama.
+
+jika tidak bisa di instal pakai yang ini
+-python -m pip install opencv-python pygame mediapipe
